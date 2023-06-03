@@ -2,7 +2,9 @@ import React from 'react'
 
 const GaleriaES = () => {
   return (
-    <div>GaleriaES</div>
+    <div>
+      <img src="/public/foto.jpg" alt="foto" />
+    </div>
   )
 }
 
