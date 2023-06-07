@@ -2,7 +2,10 @@ import React from 'react'
 
 const menuES = () => {
   return (
-    <div>menuES</div>
+    <div>
+      <img src="./public/MenuES.jpg" alt="" />
+      <img src="./public/PostresES.jpg" alt="" />
+    </div>
   )
 }
 

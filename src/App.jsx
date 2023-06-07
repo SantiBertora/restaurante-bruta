@@ -6,6 +6,7 @@ import GaleriaES from './components/GaleriaES'
 import BebidasES from './components/BebidasES'
 import MenuES from './components/MenuES'
 import VinosES from './components/VinosES'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const App = () => {
   return (

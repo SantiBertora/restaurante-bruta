@@ -10,8 +10,8 @@ const NavBar = () => {
         <Link to="/"><img src="/public/logo.png" alt="logo"/></Link>
         </div>
 
-        <div className="menu">
-          <Stack direction='row' spacing={4} align='center'>
+        <div>
+          <Stack className='menu' direction='row' spacing={4} align='center'>
             <Link to="/bebidas"><Button variant='outline'>Bebidas</Button></Link>
             <Link to="/menu"><Button variant='outline'>Menú</Button></Link>
             <Link to="/vinos"><Button variant='outline'>Vinos</Button></Link>
